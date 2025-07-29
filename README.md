@@ -1,1 +1,1 @@
-https://github.com/BenjaminBleske/fernerkundungkemnade.git
+https://benjaminbleske.github.io/fernerkundungkemnade/
